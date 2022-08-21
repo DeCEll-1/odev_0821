@@ -19,21 +19,19 @@ namespace _0821odev
             this.Controls.Add(lbl_isim);
             lbl_isim.AutoSize = true;
             lbl_isim.Text = "İsim:";
-            lbl_isim.Location = new Point(250, 30);
+            lbl_isim.Location = new Point(262, 40);
 
             Label lbl_soyisim = new Label();
             lbl_soyisim.Text = "soyisim:";
-            lbl_soyisim.Location = new Point(250, 57);
+            lbl_soyisim.Location = new Point(262, 74);
             this.Controls.Add(lbl_soyisim);
 
             TextBox tb_isim = new TextBox();
             tb_isim.Location = new Point(300, 30);
 
         }
-
-        private void label3_Click(object sender, EventArgs e)
+        private void Form1_Load(object sender, EventArgs e)
         {
-
         }
     }
 }
