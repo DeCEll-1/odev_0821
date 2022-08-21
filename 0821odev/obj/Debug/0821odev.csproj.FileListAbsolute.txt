@@ -1,0 +1,11 @@
+C:\Users\toshiba\source\repos\0821odev\0821odev\bin\Debug\0821odev.exe.config
+C:\Users\toshiba\source\repos\0821odev\0821odev\bin\Debug\0821odev.exe
+C:\Users\toshiba\source\repos\0821odev\0821odev\bin\Debug\0821odev.pdb
+C:\Users\toshiba\source\repos\0821odev\0821odev\obj\Debug\0821odev.csproj.AssemblyReference.cache
+C:\Users\toshiba\source\repos\0821odev\0821odev\obj\Debug\0821odev.csproj.SuggestedBindingRedirects.cache
+C:\Users\toshiba\source\repos\0821odev\0821odev\obj\Debug\_0821odev.Form1.resources
+C:\Users\toshiba\source\repos\0821odev\0821odev\obj\Debug\_0821odev.Properties.Resources.resources
+C:\Users\toshiba\source\repos\0821odev\0821odev\obj\Debug\0821odev.csproj.GenerateResource.cache
+C:\Users\toshiba\source\repos\0821odev\0821odev\obj\Debug\0821odev.csproj.CoreCompileInputs.cache
+C:\Users\toshiba\source\repos\0821odev\0821odev\obj\Debug\0821odev.exe
+C:\Users\toshiba\source\repos\0821odev\0821odev\obj\Debug\0821odev.pdb
